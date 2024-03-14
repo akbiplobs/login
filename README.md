@@ -1,2 +1,2 @@
 # login-form
-https://akbiplobsa.github.io/login/
+https://akbiplobs.github.io/login/
